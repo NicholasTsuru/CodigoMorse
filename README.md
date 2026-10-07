@@ -1,6 +1,6 @@
 # Código Morse com árvore binária
 
-Integrantes: **Nicholas Tsuru Ramos**.
+Integrantes: **Nicholas Tsuru Ramos e Vinícius Chella**.
 
 Programa em Java que converte letras de A a Z, números de 0 a 9 e espaços.
 Aceita letras minúsculas, convertendo para maiúsculas. Não aceita acentos nem pontuação.
